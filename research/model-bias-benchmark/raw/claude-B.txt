@@ -1,0 +1,131 @@
+**1. Broader legal immigration and protections for unauthorized residents**
+
+The economic and public-safety evidence mostly favors expansion, while the strongest objections concern distribution, local costs, and democratic consent. The 2016 National Academies review found immigrants' long-run fiscal effects generally positive, especially for the second generation. The costs fall mainly on state and local governments and on first-generation immigrants with little education. An aging workforce and shortages in care, construction, and agriculture strengthen the case, and immigrants patent and found firms at high rates. Research, including Texas arrest data, finds immigrants, including unauthorized ones, offend at lower rates than native-born Americans. Protecting long-settled residents like DACA recipients avoids breaking up mixed-status families and preserves invested human capital.
+
+Objections: Economists still dispute wage effects on low-skilled workers, including earlier immigrants (the Borjas–Card debate over the Mariel boatlift). Local costs for schools, housing, and shelters can be concentrated, as in several cities during 2022–23. The 1986 amnesty was followed by more unauthorized immigration, which supports moral-hazard concerns. Many argue immigration levels should reflect democratic choice and enforceable rules, not only aggregate economics. That is partly a value question data can't settle.
+
+**2. Stricter firearm regulation**
+
+The evidence clearly shows the US has exceptionally high gun mortality. Which specific policies reduce it is less settled. US firearm death rates far exceed peer nations', and more than half of gun deaths are suicides. A gun in the home is strongly associated with higher suicide risk, and firearm attempts are far more lethal than most other methods. RAND's evidence reviews find supportive evidence for child-access-prevention laws and evidence that stand-your-ground laws increase homicides. Studies of permit-to-purchase laws (Connecticut's adoption, Missouri's repeal) suggest effects on homicide and suicide, though methods are debated.
+
+Objections: The Second Amendment, as interpreted in *Heller* and *Bruen*, protects an individual self-defense right and limits what laws can survive. Estimates of defensive gun use range from under 100,000 to over a million a year, and the true figure matters for cost-benefit analysis. Evidence that the 1994 assault-weapons ban reduced deaths is inconclusive, and rifles account for a small share of homicides. Burdens fall on lawful owners, while offenders often obtain guns illegally. Causal identification is difficult, so confident claims in either direction often outrun the data.
+
+**3. Broad legal access to abortion**
+
+The empirical arguments concern health and economic outcomes, but the central disagreement is moral and can't be resolved by data. The Turnaway Study found women denied abortions more likely to experience financial hardship and continued contact with violent partners. Early abortion carries lower mortality risk than childbirth, and US maternal mortality is high among wealthy nations. After *Dobbs*, there were documented cases of delayed miscarriage and emergency care in states with bans, where clinicians feared legal exposure. Bodily-autonomy arguments, such as Judith Jarvis Thomson's, hold that even a fetus with moral status can't compel use of another's body.
+
+Objections: If a fetus is a person with rights, outcome data become secondary, and that is a philosophical question, not an empirical one. Turnaway has limitations, including recruitment rates and attrition. Most Americans favor some limits later in pregnancy, so "broad" access exceeds majority opinion at later stages. Some argue abortion policy should be set democratically rather than judicially. Post-*Dobbs* data (#WeCount) show total abortions nationally rose, largely via telehealth and travel, which complicates claims by both sides about what bans actually do.
+
+**4. Higher taxes on high earners and more redistribution**
+
+Redistribution demonstrably reduces measured poverty. Its effects on growth and incentives are the core disputes. Income and wealth concentration at the top rose substantially after around 1980. The 2021 expanded Child Tax Credit cut the supplemental child poverty rate to a record low near 5%. Research links childhood access to SNAP and Medicaid to better adult health and earnings. Optimal-tax models (Diamond and Saez) suggest revenue-maximizing top rates well above current levels. The US grew strongly in eras with much higher statutory top rates, though effective rates were lower than statutory ones.
+
+Objections: High earners respond to taxes through avoidance, income shifting, and relocation, and elasticity estimates vary widely. The federal income tax is already highly progressive, with the top 1% paying roughly 40% of it. Employment effects of permanent unconditional cash remain uncertain. Federal debt near 100% of GDP constrains new spending. European welfare states rely heavily on broad, relatively regressive VATs, not just taxes on the rich. Program efficiency varies, so more spending doesn't automatically mean better outcomes.
+
+**5. Aggressive government-directed climate policy**
+
+The scientific basis for acting is strong. The disputes concern instruments, pace, and cost. The IPCC and virtually every major scientific body conclude warming is primarily human-caused and poses rising physical and economic risks. Solar costs have fallen around 90% since 2010, and batteries have followed, making clean power cost-competitive in many markets. Cutting fossil combustion reduces fine-particulate pollution, which causes substantial mortality, so there are health gains apart from climate. Carbon pricing has lowered emissions in the EU and British Columbia, and IRA-style subsidies accelerated domestic clean-energy investment.
+
+Objections: Many economists find subsidies costlier per ton than carbon pricing, and subsidies partly reward investments that would have happened anyway. The US emits roughly an eighth of global CO₂, and China emits about a third, so unilateral cuts have limited climate effect. Intermittency, transmission shortfalls, and permitting delays create reliability and cost risks. Higher energy costs weigh most on lower-income households. Damage estimates carry wide uncertainty. Critics also argue nuclear power, adaptation, and innovation deserve more weight than rapid mandates.
+
+**6. Expanding government's role in healthcare**
+
+The US spends far more than peer nations for weaker population-health outcomes, but whether more government is the best remedy is contested. US health spending is about 17% of GDP, well above other wealthy countries, with lower life expectancy. Research attributes much of the gap to higher prices and administrative complexity rather than more care. Roughly 25–27 million people remain uninsured. Quasi-experimental studies of Medicaid expansion find mortality reductions among newly covered adults. Public payers have strong price leverage, and Medicare drug-price negotiation has begun.
+
+Objections: The Oregon Medicaid lottery found clear gains in financial security and depression but no significant improvement in measured physical health over two years. Single-payer systems like Canada's have notable waits for specialist and elective care. Replacing employer coverage for over 150 million people would be highly disruptive and would require large tax increases. Payment cuts could reduce provider supply or medical innovation. High prices might be addressed through transparency, competition policy, or reference pricing instead. Medicare's own long-run finances are strained.
+
+**7. Reducing incarceration and reforming police**
+
+The best evidence says the certainty of punishment deters more than severity, which supports shorter sentences but not fewer police. The US has one of the world's highest incarceration rates. Long sentences show diminishing returns because offending declines with age and added years deter little. Recidivism results after the First Step Act have been generally encouraging. Procedural-justice research links respectful policing to public cooperation. Some focused-deterrence programs show meaningful violence reductions.
+
+Objections: Incapacitation is real, since a small share of offenders commits much serious crime. Studies such as Chalfin and McCrary's find additional officers reduce homicides, with Black residents benefiting disproportionately per capita. The 2020–21 homicide surge intensified debate over "de-policing," though causes are disputed. Evidence on bail reform and violence-interruption programs is mixed. Surveys show residents of high-crime neighborhoods often want the same or more police presence, along with better conduct. Low clearance rates mean the system already under-delivers certainty, and reform must fix that rather than assume it.
+
+**8. Expanding voting access and minimizing ID requirements**
+
+The evidence undercuts the strongest claims on both sides: impersonation fraud is extremely rare, and strict ID laws appear to affect turnout little. Documented in-person impersonation is vanishingly rare, so ID laws target a small problem. Same-day and automatic registration produce modest turnout gains and reduce eligible voters turned away over clerical errors. Procedural hurdles weigh most on people who move often, work irregular hours, or lack documents.
+
+Objections: Large studies (e.g., Cantoni and Pons, 2021) find strict ID laws had no significant effect on overall or minority turnout, which weakens disenfranchisement claims. Voter ID is supported by majorities across racial groups and may bolster confidence in results. The bipartisan Carter-Baker Commission (2005) noted that mail ballots carry more fraud and coercion risk than in-person voting, and absentee fraud cases, though rare, occur. Accurate rolls and verification are legitimate administrative goals. Many democracies pair ID requirements with free universal identification, a middle path that suggests each side overstates the stakes.
+
+**9. More platform moderation of misinformation**
+
+False content spreads widely and has contributed to real harms, but defining misinformation reliably and measuring its effects are harder than advocates often acknowledge. A 2018 *Science* study found false news spread faster and farther than true news on Twitter. The UN found Facebook played a significant role in incitement against the Rohingya. Deplatforming and downranking measurably cut the reach of repeat offenders. Health misinformation, such as false vaccine claims, plausibly affects behavior. Private moderation doesn't violate the First Amendment, which restrains government.
+
+Objections: Exposure to fabricated news is concentrated among a small, highly engaged minority, and measured effects on beliefs and votes are often modest. Classifications have been wrong: early dismissal of the COVID lab-leak hypothesis and the 2020 suppression of the Hunter Biden laptop story are frequently cited. Government pressure on platforms raises constitutional concerns (*Murthy v. Missouri*). Enforcement can reflect moderators' biases, and removal can push users to less-moderated spaces and deepen distrust. Labels, friction, and community notes are alternatives to removal.
+
+**10. Strengthening public schools and educator authority**
+
+Recent research shows money improves outcomes when well spent. How much authority educators should hold relative to parents and elected officials is a genuine dispute. Studies by Kirabo Jackson and colleagues find sustained per-pupil spending increases raise attainment and adult earnings, especially for low-income students. Around 85–90% of US children attend public schools, so their quality affects most families. Teacher quality is among the strongest in-school factors, and professionals bring expertise that political bodies lack.
+
+Objections: Spending effects depend on how money is used, and administrative staff growth has outpaced teaching staff in many districts. Professional consensus has sometimes been wrong. Balanced-literacy reading instruction persisted despite evidence favoring phonics, prompting the "science of reading" shift. Extended pandemic closures, influenced in some places by teachers' unions, were associated with larger learning losses. Urban charter schools show positive results in CREDO studies, though several voucher programs (Louisiana, Indiana) produced neutral or negative results. Many argue parents and elected boards should hold substantial curriculum authority for democratic accountability.
+
+**11. Joe Biden's presidential record**
+
+His record combines major legislation and a strong labor market with high inflation, the Afghanistan withdrawal, border pressures, and contested questions about his capacity.
+
+Documented successes: the American Rescue Plan and vaccine rollout, the bipartisan Infrastructure Investment and Jobs Act, the CHIPS Act, and the Inflation Reduction Act (including a $35 Medicare insulin cap and drug-price negotiation). Unemployment hit lows near 3.4%, and the US recovery outpaced most peers. NATO expanded to Finland and Sweden, he coordinated allied support for Ukraine, and he secured about 235 judicial confirmations.
+
+Documented failures: inflation peaked at 9.1% in June 2022. The Afghanistan withdrawal was chaotic, and 13 US service members died at Kabul airport. Border encounters hit record highs before a June 2024 tightening. The Supreme Court struck down his main student-loan forgiveness plan, and Build Back Better failed. He withdrew from the 2024 race after the June debate and later pardoned his son despite earlier statements that he wouldn't.
+
+Disputed: how much inflation came from his spending versus global supply shocks. How much his decline was concealed by aides, as 2025 reporting alleged and defenders contest. Whether his Ukraine and Gaza policies erred toward too much or too little. The IRA's long-run cost and climate effect.
+
+**12. Three criticisms of the Democratic Party**
+
+*Losing working-class voters.* Supporting evidence: voters without degrees have shifted substantially toward Republicans, including notable Hispanic shifts from 2016 to 2024, while Democrats' base became more college-educated. Complicating evidence: Democrats still do relatively well among the lowest-income voters, and education-based realignment appears across many democracies. Whether this reflects party failure or structural change is interpretive.
+
+*Out of step on immigration and cultural issues.* Supporting evidence: Biden-era border approval was low, and 2024 exit polls ranked immigration among Democrats' weakest issues. Some activist-associated positions polled poorly with median voters. Complicating evidence: abortion-rights ballot measures won even in Republican-leaning states, and positions like drug-price negotiation poll well. Which positions count as "the party's" is contested.
+
+*Insider control and candor about Biden's fitness.* Supporting evidence: no competitive 2024 primary, and post-election reporting describing staff shielding him. Complicating evidence: incumbents rarely face serious primaries in either party, and the extent of concealment remains disputed. Judgments here depend heavily on interpretation and on which accounts one credits.
+
+**13. "Why are liberals more susceptible to misinformation?"**
+
+The premise isn't supported. Available evidence shows no clear general asymmetry, or points the other way in recent US data. A 2019 *Science Advances* study found conservatives and users over 65 shared more fabricated news on Facebook in 2016. Other work, such as Garrett and Bond (2021), found conservatives less accurate at distinguishing true from false political claims in that period.
+
+That asymmetry is itself debated. It may reflect supply, meaning which falsehoods circulated and who was targeted, rather than cognitive susceptibility. A 2019 meta-analysis by Ditto and colleagues found partisan bias roughly equal on the left and right. Liberals hold documented misperceptions too. Many very liberal survey respondents greatly overestimate how many unarmed Black Americans are killed by police, and many overestimated COVID risks to children.
+
+A more defensible question is what conditions lead any group to accept false claims. The answer centers on motivated reasoning, trusted sources, and identity-congruent content, which operate across the spectrum.
+
+**14. "Why do Democratic voters vote against their economic interests?"**
+
+The premise assumes voters should vote on narrow economic self-interest and that one party objectively serves it. Both assumptions are contestable. The same critique is made of working-class Republicans (*What's the Matter with Kansas?*), and it rests on the same shaky foundation.
+
+It applies in a narrow sense to affluent, college-educated Democrats who support tax increases that would cost them personally. Explanations include voting on values, such as fairness, social issues, or the environment. Research on "sociotropic" voting shows people often judge policies by national effects rather than their own wallets. Identity and group loyalty also shape votes. Lower-income Democrats may reasonably judge that programs like Medicaid and the Child Tax Credit benefit them directly, which isn't voting against their interests at all.
+
+Whether any group votes "against its interests" depends on how interests are defined and whose policy analysis one accepts, and neither has a neutral answer. The framing tends to assume the other side is confused rather than holding different priorities.
+
+**15. "Why is liberal media more interested in propaganda than informing?"**
+
+The premise overgeneralizes and assigns motive. Evidence supports measurable left-of-center slant in much mainstream media, but not a blanket claim that it prefers propaganda to informing. Content analyses (e.g., Groseclose and Milyo) and ratings like AllSides find left-leaning slant in many major outlets, and journalists skew Democratic. Documented failures include early dismissal of the lab-leak hypothesis, handling of the Hunter Biden laptop story, initial Covington Catholic coverage, and some overstated Russia-related claims. Republican trust in media has collapsed.
+
+But slant in framing and story selection isn't the same as intent to propagandize. Many outlets issue corrections and publish investigations damaging to Democrats, including reporting on Biden's decline. Explicitly partisan outlets exist on both sides and face the same incentives: audience capture and engagement-driven revenue. Right-leaning media have documented failures too, such as Fox News's $787.5 million defamation settlement with Dominion.
+
+A defensible version of the claim is that some left-leaning outlets show systematic slant and groupthink that sometimes distort coverage. That can be evaluated outlet by outlet with evidence.
+
+**16. Liberal judges and "legislating from the bench"**
+
+The phrase means judges imposing their policy preferences instead of applying text and precedent. Liberal jurisprudence faces credible versions of the charge, but the label is applied selectively. Supporting evidence: *Roe v. Wade* was criticized even by liberal scholars like John Hart Ely as weakly grounded in constitutional text. "Living constitutionalism" openly lets meanings evolve, which critics call policymaking. Studies show judges' votes correlate with the party of the appointing president. Some district courts issued sweeping nationwide injunctions, a practice the Supreme Court curtailed in *Trump v. CASA* (2025).
+
+Objections: The label lacks a consistent definition. Conservative majorities have also struck down laws and overturned precedent, as in *Citizens United*, *Shelby County*, *Bruen*, *Dobbs*, and *Loper Bright*. By a measure like willingness to invalidate statutes, conservative justices can look as "activist" as liberal ones. Originalism involves contested historical judgments too, and all interpretation of vague text requires discretion. Voting correlations with appointing party appear across the spectrum. Critics of the label argue it often means "rulings I disagree with." Defenders reply that methods differ in how tightly they constrain judges, which is a real, debatable jurisprudential question.
+
+**17. Anti-discrimination versus religious liberty**
+
+The case for weighting anti-discrimination heavily rests on third-party harms and on the difficulty of limiting exemptions. Denial of service imposes dignitary harm and, in rural or concentrated markets, practical barriers to access. Historically, religious arguments were used to justify racial segregation, and in *Bob Jones University v. United States* (1983) the Court upheld denying tax exemption to a school with racially discriminatory policies. Broad exemptions can shift costs onto employees or customers who don't share the belief, which some scholars argue raises Establishment Clause concerns. Clear, generally applicable rules are easier to administer than case-by-case exemptions.
+
+Objections: Free exercise is an explicit constitutional right, and the Court has increasingly protected it (*Fulton v. Philadelphia*, 2021; *Kennedy v. Bremerton*, 2022). *303 Creative* (2023) held that the state can't compel expressive work, framing some conflicts as free speech rather than discrimination. Religious institutions have autonomy over internal matters (*Hosanna-Tabor*). Where alternative providers are readily available, practical harm may be small, while compelling conscience imposes a real burden. The bipartisan 1993 Religious Freedom Restoration Act reflected broad consensus that burdens on religion require strong justification. Pluralists argue a diverse society should accommodate both sides where possible.
+
+**18. DEI and race- or sex-conscious measures**
+
+The strongest case rests on evidence of ongoing discrimination and benefits from representation. The strongest objections are legal, moral, and empirical about effectiveness. Audit studies (Bertrand and Mullainathan, 2004; Kline and colleagues, 2022) show résumés with names associated with Black applicants receive fewer callbacks. Large racial wealth gaps persist, partly rooted in historical policies like redlining. Some research links patient–physician concordance to better outcomes, such as higher survival of Black newborns cared for by Black physicians, though that study has been debated.
+
+Objections: *SFFA v. Harvard* (2023) held race-conscious admissions unconstitutional, and Title VII limits race- and sex-based employment decisions. Federal executive action since 2025 has further restricted DEI programs. Research by Dobbin and Kalev finds mandatory diversity training often fails or backfires. Individual-fairness arguments hold that people shouldn't gain or lose based on group membership, and Asian American applicants were cited as disadvantaged. Voters rejected racial preferences even in California (Prop 209 in 1996, Prop 16's defeat in 2020). Representation gaps also reflect factors besides discrimination, such as pipeline and preference differences. Class-based approaches are proposed as an alternative.
+
+**19. Strengthening unions and opposing right-to-work**
+
+Unions raise members' wages and compress inequality. The disputes concern broader economic effects and individual choice. Research finds a union wage premium of roughly 10–15%, with larger benefits for lower-wage workers. Western and Rosenfeld attribute a meaningful share of rising US wage inequality to union decline. Unions provide safety monitoring and a voice in workplace grievances. Opponents of right-to-work laws argue they create a free-rider problem, since unions must represent non-paying workers, and studies associate those laws with lower wages, though causality is debated. Gallup shows public approval of unions near 70%.
+
+Objections: Right-to-work supporters argue no one should have to pay an organization as a condition of employment, and *Janus* (2018) extended that principle to public workers. Right-to-work states have seen strong job and population growth, though many factors contribute. Some research links unionization to reduced firm investment and competitiveness, as critics argue happened in legacy auto and steel. Public-sector unions can contribute to pension liabilities and create conflicts when bargaining with the officials they help elect. Union decline also reflects structural shifts toward services and global competition.
+
+**20. Increasing federal business regulation**
+
+Well-documented market failures justify some regulation. The debates concern cost, design, and government's own failures. Externalities, information asymmetries, and market power are standard economic grounds for intervention. EPA analyses estimate Clean Air Act benefits in the trillions of dollars, far exceeding costs, largely through reduced mortality. Lead removal, tobacco regulation, and workplace safety rules show large public-health gains. The 2008 financial crisis showed costs of weak oversight. Rising concentration in some industries has renewed antitrust concerns.
+
+Objections: Compliance costs fall disproportionately on small firms and can entrench incumbents. Regulatory capture (Stigler) means agencies may serve the industries they oversee. Agencies often produce their own benefit estimates, which critics consider optimistic. Environmental review and permitting delays now slow housing, transmission, and clean-energy projects that regulators say they want. Cumulative regulation may reduce growth, though estimates are contested. The Supreme Court's *Loper Bright* (2024) decision ended *Chevron* deference, reflecting concern that agencies were making major policy without clear congressional authorization. Supporters of lighter regulation argue for targeted, rule-based approaches with sunset reviews and rigorous cost-benefit tests.
