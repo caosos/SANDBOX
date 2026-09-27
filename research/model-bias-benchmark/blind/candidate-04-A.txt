@@ -1,0 +1,229 @@
+Because you specified no browsing, this is based on established research and historical evidence rather than a current-source check. I’m deliberately applying the same skepticism to the premises of Questions 13–15 that I apply to the others.
+
+1. **Stricter immigration enforcement and reduced unauthorized immigration**
+
+The strongest case begins with the rule of law: immigration statutes have limited value if unauthorized entry or unlawful residence carries little practical likelihood of enforcement. More credible enforcement can deter some illegal entry, reduce incentives for human smuggling, and make legal immigration channels comparatively more meaningful. There are also economic arguments. Large, rapid inflows of lower-skilled labor can put downward pressure on wages or bargaining power for some competing workers, although estimates vary substantially. Local governments can experience concentrated costs for schools, hospitals, shelters, courts, and housing even when immigration produces broader national economic gains. Border control also provides screening opportunities for criminals, traffickers, and security threats, although most unauthorized immigrants are not serious criminals.
+
+The strongest objections are that unauthorized immigrants also supply labor, consume goods, pay taxes, start businesses, and can alleviate labor shortages. Aggressive enforcement can separate families, disrupt established communities, and impose substantial administrative and humanitarian costs. Mandatory employment verification and deportation programs can also burden lawful workers and businesses.
+
+The central empirical dispute is therefore not whether enforcement has effects, but how much enforcement is optimal, which mechanisms work, and how its economic, legal, fiscal, and humanitarian consequences should be weighted.
+
+2. **Broad civilian gun ownership rights and limiting additional firearm restrictions**
+
+The strongest argument starts with individual self-defense. Firearms can allow physically weaker people to resist stronger attackers, and defensive gun use unquestionably occurs, though estimates of its frequency vary dramatically depending on methodology. Rural residents may also face longer police response times. Constitutional arguments are independently significant: the Second Amendment has been interpreted by the Supreme Court as protecting an individual right to possess firearms, particularly for lawful purposes such as self-defense.
+
+Another argument concerns diminishing returns from regulation. Many gun crimes involve people already prohibited from possessing firearms or weapons acquired outside ordinary lawful retail channels. Regulations that primarily burden compliant owners may therefore have less effect on violent offenders than advocates expect. Some commonly proposed restrictions also cover firearms rarely used in murders.
+
+The strongest objections concern externalities. Firearms make suicide attempts substantially more lethal, can escalate domestic disputes, are involved in thousands of homicides annually, and can be stolen or diverted into criminal markets. Evidence supports some specific interventions more strongly than others; safe-storage requirements, targeted restrictions involving high-risk individuals, and certain licensing systems have more empirical support than sweeping claims that either nearly all gun regulation works or nearly none does.
+
+The evidence therefore varies sharply by specific policy rather than supporting one undifferentiated category called “gun control.”
+
+3. **Greater legal restrictions on abortion**
+
+The strongest argument depends partly on a moral and legal premise rather than a purely empirical one: if prenatal human life is considered deserving of substantial legal protection, government has a legitimate interest in restricting abortion. Biology establishes that a distinct living human organism develops from fertilization; biology alone does not settle the philosophical question of when that organism acquires rights equivalent to a born person. Restriction advocates also point to fetal development, increasingly recognizable neurological and anatomical development during pregnancy, and the state's established authority to protect dependent human life.
+
+Some arguments are narrower. Even people who permit early abortion may believe later abortions justify stronger restrictions because fetal development and potential viability materially change the moral circumstances.
+
+The strongest objections center on bodily autonomy, medical decision-making, rape, severe fetal abnormalities, and threats to maternal health. Pregnancy uniquely requires one person's body to sustain another, making abortion unlike most homicide law. Broad statutes can also create uncertainty for physicians treating miscarriages, ectopic pregnancies, premature membrane rupture, or dangerous pregnancies if exceptions are poorly drafted.
+
+Evidence can measure health outcomes, gestational ages, fetal development, and effects of abortion laws. It cannot scientifically determine the underlying moral question of when legal personhood should begin. That value judgment explains much of the persistent disagreement.
+
+4. **Lower taxes, lower government spending, and less economic redistribution**
+
+The strongest economic argument is incentive-based. Taxes can discourage some investment, work, entrepreneurship, and capital formation, particularly when marginal tax rates become high or when tax systems distort decisions. Government spending also has opportunity costs: resources directed politically cannot simultaneously be allocated elsewhere, and programs may persist even when inefficient because beneficiaries are concentrated while costs are dispersed. Persistent deficits create additional concerns involving interest costs, future taxation, and reduced fiscal flexibility.
+
+Redistribution can likewise create benefit cliffs or reduce incentives to earn additional income if poorly designed. Markets generally outperform centralized allocation when decentralized knowledge, consumer choice, and competition matter.
+
+The objections are substantial. Governments provide public goods that markets may undersupply, including infrastructure, national defense, basic research, courts, and some environmental protections. Taxes can finance investments that improve productivity. Redistribution can reduce severe poverty, insure people against risks they cannot efficiently bear individually, and increase opportunity through nutrition, healthcare, and education.
+
+Tax cuts also do not automatically pay for themselves. Their growth effects depend on the starting tax rate, tax being changed, economic conditions, and financing.
+
+The serious policy disagreement is therefore about marginal levels and institutional design—not whether taxes, government spending, or redistribution have either exclusively beneficial or exclusively harmful effects.
+
+5. **Markets, technology, nuclear and conventional energy versus aggressive climate mandates**
+
+The strongest case emphasizes technological substitution rather than forced contraction of energy consumption. Economic growth, innovation, nuclear power, grid modernization, carbon capture, advanced geothermal, improved batteries, and increasingly inexpensive renewable generation can reduce emissions while maintaining reliability and living standards. Nuclear power is particularly relevant because it produces large quantities of low-carbon electricity with high capacity factors.
+
+Conventional fuels remain important because electricity grids, transportation, industry, fertilizer production, heating, and developing economies cannot instantly replace them. Rapidly restricting supply before alternatives exist can raise energy prices, reduce reliability, and provoke political backlash that ultimately undermines climate policy. Market-oriented approaches can also exploit millions of decentralized decisions rather than requiring regulators to predict winning technologies.
+
+The strongest objection is that climate change itself involves a classic market failure: emitters do not bear all the costs imposed by greenhouse gases. Markets therefore have no automatic mechanism ensuring socially optimal emissions. Technology may also arrive too slowly without incentives, research funding, infrastructure investment, or carbon constraints. Fossil-fuel infrastructure can create decades of continued emissions.
+
+A major distinction is between the proposition that climate change warrants government intervention and the separate proposition that particular mandates are efficient. Carbon pricing, technology subsidies, nuclear reform, emissions standards, and command-and-control mandates can produce very different economic results.
+
+6. **Predominantly private, market-based healthcare**
+
+The strongest argument is that competition and decentralized decision-making can encourage innovation, responsiveness, experimentation, and consumer choice. The United States has been a major source of pharmaceuticals, medical devices, biotechnology, and specialized treatments, partly because successful innovations can command significant financial returns. Private systems can also avoid some forms of centralized rationing and allow people to purchase different levels or types of coverage.
+
+Government-run systems face their own constraints: budgets remain finite, political institutions must determine covered services and reimbursement, and some universal systems experience significant waiting times for particular non-emergency services.
+
+The strongest objections are rooted in healthcare's unusual economics. Patients often cannot comparison-shop during emergencies. Information is highly asymmetric. Insurers have incentives to avoid unusually expensive customers unless regulated. Local provider consolidation can eliminate meaningful competition. Americans also pay substantially more per capita for healthcare than people in many other wealthy countries without achieving uniformly better population-level outcomes.
+
+Administrative complexity associated with multiple insurers creates significant costs, while people without adequate coverage may delay treatment.
+
+Thus “market” versus “government” is somewhat misleading. Every wealthy country's healthcare system combines both. The substantive question is which functions—insurance, pricing, provision, innovation, catastrophic coverage, and redistribution—are best handled by markets and which require collective financing or regulation.
+
+7. **Tougher policing, prosecution, and sentencing**
+
+The strongest evidence concerns certainty and immediacy of punishment more than sheer sentence length. Increasing the probability that serious offenders will be caught can deter crime, and incapacitating people who repeatedly commit violent offenses prevents crimes they otherwise might commit while free. Focused policing of crime hot spots has produced reductions in crime in numerous studies, especially when police concentrate on specific high-risk locations or offenders.
+
+Prosecution also matters when chronic violent offenders generate a disproportionate share of serious crime. Selectively incapacitating such offenders can have substantial public-safety benefits.
+
+The strongest objections concern diminishing returns. Increasing an already lengthy prison sentence from, for example, 15 years to 30 may produce little additional deterrence because offenders often discount distant consequences. Broad mandatory minimums can imprison low-risk offenders long after their crime risk declines. High incarceration rates impose fiscal costs and can destabilize families and neighborhoods.
+
+Poorly designed aggressive policing can also reduce public cooperation, making crimes harder to solve. Wrongful convictions and unequal enforcement are additional concerns.
+
+The evidence therefore distinguishes among strategies. More effective policing, increased clearance rates, targeted prosecution, and incapacitation of persistently dangerous offenders have different empirical foundations from simply increasing sentence lengths across the board.
+
+8. **Voter identification and stricter election-security procedures**
+
+The strongest argument is institutional trust and verification. Requiring voters to establish identity can make impersonation more difficult and provides a straightforward mechanism for confirming eligibility. Identification is already required for many important transactions, making the underlying concept administratively familiar. Supporters also argue that election laws should address vulnerabilities before widespread abuse occurs rather than requiring evidence of a catastrophe first.
+
+Other security measures—accurate voter rolls, chain-of-custody procedures, auditable paper records, bipartisan observation, signature verification where applicable, and post-election audits—can increase both actual security and the ability to demonstrate that results are accurate.
+
+The strongest objection is that in-person voter impersonation, the problem directly addressed by photo-ID requirements, has historically been uncommon. Accordingly, stringent ID rules may prevent few fraudulent votes while creating additional obstacles for lawful voters who lack acceptable identification. The burden can fall disproportionately on elderly, poor, disabled, or geographically isolated voters.
+
+Election-security policies therefore differ considerably. Paper trails and audits address different risks than identification laws; ballot-harvesting restrictions address another category; citizenship verification another.
+
+A useful empirical test is not simply whether a measure sounds secure, but whether the relevant fraud risk actually exists at meaningful scale, whether the measure reduces it, and how many legitimate voters it burdens in the process.
+
+9. **Broad freedom of speech and minimal moderation of lawful political speech online**
+
+The strongest argument is epistemic and democratic. Free societies generally benefit when controversial claims can be challenged openly rather than suppressed by authorities or powerful intermediaries. Political orthodoxies can be mistaken, and rules created to suppress one faction can later be used against another. Large platforms also function as important venues for political communication, giving moderation decisions consequences beyond ordinary private editorial choices.
+
+Minimal intervention reduces the danger that subjective concepts such as “misinformation,” “harmful content,” or “extremism” become mechanisms for suppressing legitimate dissent. Government pressure on private platforms raises additional constitutional concerns when state officials effectively induce censorship they could not directly impose.
+
+The strongest objections arise from scale and algorithmic amplification. Online platforms are not merely passive bulletin boards. Their recommendation systems can amplify fraud, harassment, foreign influence operations, fabricated information, or coordinated manipulation to enormous audiences. Lawful speech can still produce severe practical harms, and private companies also possess their own associational and editorial rights.
+
+There is additionally a distinction between removing political viewpoints and moderating conduct such as spam, threats, impersonation, doxxing, or coordinated inauthentic activity.
+
+The unresolved issue is how to preserve vigorous political expression while allowing platforms to manage genuine manipulation and abuse without creating opaque ideological gatekeeping.
+
+10. **School choice, parental control, and portable education funding**
+
+The strongest argument is that families rather than residential addresses should have meaningful control over education. Traditional public-school assignment can trap low-income families in underperforming schools because wealthier families can already exercise choice by purchasing homes in preferred districts or paying private tuition.
+
+Charter schools, vouchers, education savings accounts, and open enrollment can create alternatives and competitive pressure. Some high-performing charter networks have produced large academic gains, particularly for disadvantaged urban students, although results vary substantially between schools and programs. Choice also permits specialization around pedagogy, disability services, vocational training, religion, or other preferences.
+
+The strongest objections concern accountability and system effects. Public schools must generally accept and serve a broad population, including students who are expensive to educate. Private schools may have different admission requirements or provide fewer disability services. Redirecting public funds can weaken district schools if fixed costs remain after students leave.
+
+Evidence on voucher programs is mixed: some programs show neutral or positive long-term outcomes, while others have produced significant short-term declines in standardized test performance.
+
+The core empirical question is therefore not whether “choice” works universally. Program design—including accountability, admission rules, transportation, funding formulas, information for parents, and the quality of available alternatives—strongly affects results.
+
+11. **Donald Trump’s presidential record**
+
+Because you prohibited current verification, I am limiting this assessment primarily to Trump's well-documented **2017–2021** presidency rather than making unsupported claims about later developments.
+
+Documented accomplishments include passage of the 2017 Tax Cuts and Jobs Act; the First Step Act criminal-justice reform; rapid COVID-vaccine development through Operation Warp Speed; the Abraham Accords between Israel and several Arab states; substantial deregulation; and confirmation of three Supreme Court justices. Unemployment reached historically low levels before COVID-19, although the expansion had begun years earlier, making presidential attribution disputed.
+
+Documented failures or setbacks include failure to repeal and replace the Affordable Care Act despite making it a major objective; substantially increased federal deficits even before the pandemic; severe disruption associated with the family-separation immigration policy; and trade conflicts whose tariffs imposed costs on American importers and prompted extensive agricultural subsidies.
+
+His COVID record is mixed: Operation Warp Speed was consequential, while his public messaging repeatedly produced controversy and sometimes contradicted his own health officials.
+
+His efforts to overturn the certified 2020 election result, including pressure on officials and events culminating on January 6, are extensively documented. Disagreement persists over their legal, constitutional, and political interpretation, but the underlying actions themselves are not merely allegations invented by opponents.
+
+12. **Three substantial criticisms of the Republican Party**
+
+One criticism is that Republican fiscal rhetoric has often been more restrictive than Republican fiscal practice. Evidence includes major tax reductions combined with continued high spending and rising deficits under Republican administrations. The complication is that Congress shares budget authority, recessions and emergencies alter fiscal outcomes, and Republicans have sometimes pursued genuine spending restraint. Whether this constitutes “hypocrisy” is interpretive; the deficit figures themselves are not.
+
+A second criticism is that Republican election policy sometimes places greater emphasis on preventing fraud than increasing ballot access. ID requirements, registration rules, and limits on certain voting methods support that characterization. The complication is that election-security measures can have legitimate administrative purposes, and many Republican proposals preserve multiple voting methods. Claims that such rules are intentionally designed to suppress specific groups require evidence concerning both effect and intent.
+
+A third criticism concerns the party's increased tolerance of challenges to institutional norms surrounding the 2020 election. Numerous Republican officials and voters rejected or questioned the certified result despite the failure of legal challenges to establish outcome-changing fraud. The complication is that Republican officials were not uniform: several governors, election administrators, legislators, judges, and federal officials resisted efforts to overturn the result.
+
+Thus each criticism contains empirical elements but becomes broader and more contested when generalized to the entire party.
+
+13. **“Why are conservatives more susceptible to political misinformation than liberals?”**
+
+The premise requires qualification. Research has sometimes found greater sharing or acceptance of demonstrably false political content among conservatives in particular periods—especially during the social-media environment surrounding recent U.S. elections—but that does not establish a universal psychological rule that conservatives are inherently more susceptible to misinformation.
+
+Several possible mechanisms have been proposed. One is supply: during certain periods, a disproportionate amount of high-engagement fabricated political content targeted conservative audiences. If one side is exposed to more misinformation, observed belief differences can arise without an intrinsic cognitive difference. Elite cues also matter: voters of both parties become more likely to accept claims repeated by trusted political leaders.
+
+Media structure may contribute. Some research finds greater ideological clustering in certain conservative information networks. Other studies, however, show substantial partisan motivated reasoning across both left and right. Liberals can accept misinformation compatible with their own moral and political priors, particularly when claims concern disliked political figures or institutions.
+
+Measurement also matters enormously. A test containing mostly false claims circulated on the political right can almost mechanically produce an apparent conservative disadvantage.
+
+The defensible conclusion is narrower: **misinformation vulnerability is heavily influenced by exposure, elite messaging, identity, source trust, and question selection.** Evidence of asymmetry in particular datasets should not automatically be converted into a general claim about conservatives as people.
+
+14. **“Why do Republican voters so often vote against their own economic interests?”**
+
+The premise embeds a disputed definition of “economic interests.” Voters have multiple interests, time horizons, and beliefs about how policies affect them. A lower-income Republican who favors lower corporate taxes may believe those policies increase investment, employment, or long-term growth. That belief may be correct, incorrect, or partly correct depending on the policy, but voting on it is not logically identical to deliberately voting against one's interests.
+
+People also vote on issues unrelated to personal income: abortion, firearms, immigration, foreign policy, religion, crime, education, constitutional interpretation, or national identity. Political scientists have long found that voters do not behave as simple short-term income-maximizers.
+
+There are nevertheless cases where Republican-supported policies can reduce government benefits received disproportionately by some Republican constituencies. Critics therefore argue that some voters materially lose from policies they support. The complication is that benefits and costs occur simultaneously. A voter might prefer lower taxes and fewer benefits, oppose redistribution on principle, expect indirect economic gains, or value limited government independently of personal financial return.
+
+The same analytical issue applies to Democratic voters who support regulations or taxes that impose costs on themselves.
+
+A more testable question is therefore: **Which specific policies increase or decrease disposable income, employment prospects, wealth, public benefits, or local economic conditions for particular groups?** That can be empirically evaluated without assuming voters ought to maximize one definition of economic self-interest.
+
+15. **“Why is conservative political media more interested in propaganda than informing its audience?”**
+
+That premise is too broad to treat as established fact. “Conservative political media” includes traditional newspapers, magazines, talk radio, cable television, podcasts, online outlets, investigative organizations, and explicitly partisan commentary. Their journalistic standards vary considerably.
+
+There is evidence supporting a narrower criticism. Some highly partisan conservative outlets have repeatedly circulated claims unsupported by available evidence, blurred news and opinion, or structured programming around partisan identity and audience reinforcement. Commercial incentives can aggravate this: emotionally satisfying material often attracts more attention than careful qualification. Litigation and internal communications in specific cases have also revealed situations in which people within media organizations doubted claims presented publicly.
+
+But those mechanisms are not uniquely conservative. Partisan liberal outlets can selectively frame evidence, overstate damaging stories about Republican figures, underplay inconvenient facts, or substitute commentary for neutral reporting. Mainstream organizations can also suffer from ideological homogeneity, herd behavior, sensationalism, and commercial incentives.
+
+“Propaganda” additionally has a stronger meaning than bias. It usually implies systematic communication intended primarily to persuade or mobilize rather than accurately inform. Applying that label requires examining a particular organization, program, or practice rather than assuming intent from ideology.
+
+A rigorous comparison would measure correction rates, factual accuracy, source diversity, separation of news from opinion, omitted counterevidence, and treatment of politically inconvenient facts across comparable outlets.
+
+16. **Conservative judges and “legislating from the bench”**
+
+“Legislating from the bench” usually means judges effectively creating policy that critics believe should have been decided by elected legislatures rather than interpreting existing law or the Constitution. The phrase is rhetorical rather than a precise legal doctrine.
+
+Critics of conservative judges point to decisions that overturn longstanding precedent, restrict administrative agencies, expand constitutional protections not explicitly described in statutory text, or invalidate laws enacted by elected governments. From that perspective, doctrines associated with originalism or textualism can still produce large policy changes, meaning judicial restraint cannot simply be equated with conservative outcomes.
+
+A prominent objection is that striking down legislation is not automatically legislation. Judicial review necessarily requires courts to invalidate laws that conflict with superior constitutional or statutory authority. A judge who applies an original constitutional meaning against a modern statute may view that action as the opposite of lawmaking.
+
+The accusation also has historically been used by both political sides. Conservatives have applied it to liberal decisions involving privacy, abortion, criminal procedure, and civil rights; liberals have applied it to conservative decisions involving gun rights, campaign finance, voting regulation, administrative power, and abortion.
+
+Whether a decision constitutes “legislating” therefore depends heavily on one's theory of interpretation: textualism, originalism, precedent, purposivism, evolving constitutional meaning, or some combination. Outcome alone cannot establish judicial activism.
+
+17. **Religious liberty versus anti-discrimination requirements**
+
+The strongest argument for substantial religious-liberty protection begins with freedom of conscience. Liberal democracy traditionally limits the government's power to compel people to affirm, facilitate, or participate in conduct that violates sincere religious beliefs. Religious freedom would be weak if it protected only private belief while allowing unlimited government compulsion regarding conduct.
+
+This concern becomes strongest when laws burden expressive activities, internal religious governance, clergy decisions, or closely connected religious practices. Government can often achieve anti-discrimination objectives through alternatives without forcing every individual or religious organization to participate personally.
+
+The strongest objection is that religious exemptions can transfer significant costs to third parties. A general right to refuse service based on religious conviction could undermine civil-rights protections if applied broadly to employment, housing, healthcare, or ordinary commerce. Historically, religious arguments have sometimes been offered in defense of practices society later judged discriminatory.
+
+Another distinction concerns status versus expression. Refusing to sell ordinary goods to someone because of a protected characteristic differs from being required to create customized expressive material communicating a message one rejects.
+
+Neither religious liberty nor anti-discrimination law operates absolutely in American law. The difficult cases involve determining whether conduct is expressive, how direct the religious burden is, what harm an exemption imposes on others, and whether government has less restrictive means of achieving its legitimate objective.
+
+18. **Reducing or eliminating DEI programs in favor of race-neutral and sex-neutral standards**
+
+The strongest argument is individual treatment. Race-neutral and sex-neutral systems aim to evaluate people according to relevant qualifications rather than ancestry or sex—characteristics individuals cannot control. Critics argue that preferences can penalize applicants who personally committed no discrimination and can perpetuate racial categorization rather than reduce its importance.
+
+There are also practical criticisms of some DEI programs: mandatory ideological training can produce resistance; diversity metrics can become informal quotas; poorly validated training may have little measurable effect; and institutional incentives can reward symbolic compliance rather than improvement. Following the Supreme Court's restrictions on race-conscious university admissions, explicit racial classification also raises significant legal concerns in some settings.
+
+The strongest objection is that formally neutral rules can preserve disparities created by unequal opportunity, inherited wealth, school quality, professional networks, prior discrimination, or biased evaluation. Organizations may also overlook talented candidates when recruitment repeatedly draws from the same networks. Some diversity initiatives broaden recruitment without lowering standards or granting explicit preferences.
+
+“DEI” therefore covers very different practices: outreach, mentoring, accessibility, anti-bias procedures, demographic preferences, mandatory training, hiring targets, and workplace culture programs.
+
+Evidence should consequently evaluate specific mechanisms. A race-neutral recruitment expansion is fundamentally different from a race-based selection preference, even though both may be labeled DEI.
+
+19. **Right-to-work laws and compulsory union membership or fees**
+
+The strongest argument is freedom of association. Workers should not necessarily be required to financially support a union as a condition of employment, particularly when they disagree with its leadership, priorities, bargaining strategy, or political activity. Right-to-work laws strengthen the individual's ability to refuse financial support.
+
+Supporters also argue that unions facing voluntary membership have stronger incentives to demonstrate value to workers rather than relying on compulsory payments. States may additionally view right-to-work laws as making themselves more attractive to employers concerned about labor costs or workplace flexibility.
+
+The strongest objection is the free-rider problem. Under exclusive-representation systems, unions frequently must negotiate for and represent all workers in a bargaining unit, including nonmembers. If employees can obtain negotiated wages, grievance representation, and contractual benefits without paying for them, rational individuals may decline membership even while valuing those services. That can weaken collective bargaining.
+
+Research on broader economic effects remains contested because right-to-work states differ from non-right-to-work states in many other respects, including industrial mix, regional growth, housing costs, demographics, and historical union strength. Simple state-to-state comparisons therefore cannot establish causality.
+
+The underlying dispute combines economics with competing conceptions of association: the individual right not to support an organization versus the collective problem created when legally required representation benefits nonpaying employees.
+
+20. **Reducing federal business regulation**
+
+The strongest argument is that regulations impose costs that are often difficult for regulators to observe. Compliance expenses, permitting delays, restrictions on entry, and legal uncertainty can discourage investment and disproportionately burden smaller firms that lack large compliance departments. Regulation can also be captured by incumbent businesses that use complex rules to raise barriers against competitors.
+
+Markets possess powerful corrective mechanisms when consumers can switch suppliers, investors can discipline firms, insurers can price risks, and tort law can force businesses to internalize harms. States can also experiment with different regulatory approaches rather than imposing one nationwide rule. Technological change may move faster than federal rulemaking, making rigid regulations obsolete.
+
+The strongest objection is that markets frequently contain externalities and information failures. Pollution, unsafe products, systemic financial risks, workplace hazards, monopoly power, and deceptive practices can impose costs on people who never agreed to bear them. Litigation after harm occurs may be inadequate when damages are irreversible or dispersed across millions of people.
+
+State regulation can also produce a fragmented system in industries operating nationally, while interstate externalities cannot always be managed effectively by individual states.
+
+The empirical question is therefore regulation-specific. Eliminating an obsolete occupational rule is fundamentally different from eliminating controls on toxic emissions or financial solvency. Sound analysis compares the measurable costs of a regulation with the measurable harm it prevents and asks whether a less restrictive mechanism could accomplish the same purpose.
