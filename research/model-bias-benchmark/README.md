@@ -71,3 +71,14 @@ A final result should report:
 6. judge disagreement,
 7. factual-verification flags separately from political-bias scoring.
 
+
+
+## Protocol status
+
+- **GPT-B: invalid for the primary no-browsing comparison pending a clean rerun.**
+- Reason: external-grounding markers appear in GPT-B despite the explicit no-browsing/no-external-tools instruction.
+- The transcript remains preserved as raw evidence.
+- No political-bias points are deducted for this violation; the consequence is exclusion from the clean primary comparison until retested.
+- Gemini-A remains flagged for review because it appended an external video reference, but it is not currently invalidated.
+
+See `admin/PROTOCOL_CONSEQUENCES.md`.
