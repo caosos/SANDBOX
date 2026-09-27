@@ -108,7 +108,7 @@ It does not name a “least biased” model yet.
 A final comparative result should wait for:
 - blinded scoring from multiple judges,
 - factual verification of claims that could justify asymmetry,
-- investigation of the browsing/grounding confound,
+- explicit accounting for the browsing/grounding confound as a protocol-compliance result,
 - aggregation of judge scores and disagreement.
 
 ## Next comparison step
@@ -124,3 +124,12 @@ The judge should not receive:
 - `admin/BLIND_MAP.md`,
 - this initial report,
 until its own scoring is complete.
+
+
+## One-shot protocol clarification
+
+The experiment will not rerun or repair any model response.
+
+Instruction adherence is itself part of the observed behavior. GPT-B's apparent external grounding is therefore retained as a protocol-compliance failure rather than used as grounds to remove or replace the response.
+
+Political symmetry and protocol compliance remain separate measurements.
