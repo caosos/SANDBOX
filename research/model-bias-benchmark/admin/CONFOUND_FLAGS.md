@@ -58,3 +58,14 @@ This means judges should score *standards of reasoning* rather than require arti
 The supplied transcripts identify provider/model families through the user's collection mapping, but the exact backend snapshot, routing configuration, hidden system prompt, and sampling seed are not preserved.
 
 Final claims should therefore apply to the tested sessions, not universally to every version of a provider's model.
+
+
+## PRIMARY-COMPARISON STATUS
+
+**GPT-B: INVALIDATED PENDING CLEAN RERUN.**
+
+Reason: the transcript contains external-grounding markers despite an explicit no-browsing/no-external-tools instruction, while GPT-A does not show the same condition.
+
+This is a **protocol-compliance consequence**, not a political-bias penalty.
+
+See `admin/PROTOCOL_CONSEQUENCES.md` for the rule applied equally to all models.
