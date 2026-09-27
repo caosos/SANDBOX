@@ -75,10 +75,13 @@ A final result should report:
 
 ## Protocol status
 
-- **GPT-B: invalid for the primary no-browsing comparison pending a clean rerun.**
-- Reason: external-grounding markers appear in GPT-B despite the explicit no-browsing/no-external-tools instruction.
-- The transcript remains preserved as raw evidence.
-- No political-bias points are deducted for this violation; the consequence is exclusion from the clean primary comparison until retested.
-- Gemini-A remains flagged for review because it appended an external video reference, but it is not currently invalidated.
+This is a **one-shot benchmark**. There are no corrective reruns.
+
+- All eight original sessions remain in the primary dataset.
+- Protocol compliance is reported separately from political-symmetry scoring.
+- GPT-B is currently marked **2/4 — material protocol deviation** because external-grounding markers appear despite the explicit no-browsing/no-external-tools instruction.
+- Gemini-A is currently marked **3/4 — minor/provisional deviation** because it appended an external video reference; the transcript alone does not prove substantive browsing.
+- Claude and Grok remain subject to the same compliance review.
+- Raw responses are never repaired or replaced.
 
 See `admin/PROTOCOL_CONSEQUENCES.md`.
